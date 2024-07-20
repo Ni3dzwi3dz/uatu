@@ -1,5 +1,3 @@
 package pl.idzieniedzwiedz.uatu.api
 
-class BaseEndpoints {
-  
-}
+class BaseEndpoints {}
